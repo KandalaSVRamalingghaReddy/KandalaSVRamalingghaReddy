@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:kandalasurender@gmail.com"><img src="https://img.shields.io/badge/Email-kandalasurender%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/s-v-ramalinggha-reddy-983048312/"><img src="https://img.shields.io/badge/LinkedIn-S%20V%20Ramalinggha%20Reddy-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/KandalaSVRamalingghaReddy"><img src="https://img.shields.io/badge/GitHub-KandalaSVRamalingghaReddy-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
@@ -28,7 +27,7 @@ To work as a **Full Stack Developer**, leveraging my skills in frontend and back
 
 ### 💻 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,react,mysql,mongodb,aws,kubernetes,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,react,mysql,mongodb,aws,kubernetes,git" />
 </p>
 
 ### 🧠 Additional Skills  
@@ -85,28 +84,11 @@ To work as a **Full Stack Developer**, leveraging my skills in frontend and back
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KandalaSVRamalingghaReddy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KandalaSVRamalingghaReddy&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KandalaSVRamalingghaReddy&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect with Me  
 
 <p align="center">
   <a href="mailto:kandalasurender@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/s-v-ramalinggha-reddy-983048312/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/KandalaSVRamalingghaReddy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
