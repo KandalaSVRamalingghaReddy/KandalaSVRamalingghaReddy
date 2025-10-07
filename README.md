@@ -99,4 +99,4 @@ To work as a **Full Stack Developer**, leveraging my skills in frontend and back
 
 ---
 
-<p align="center">© 2025 | Built with ❤️ by <b>Kandala S V Rama Linggha Reddy</b></p>
+<p align="center">© 2025 | Built by <b>Kandala S V Rama Linggha Reddy</b></p>
